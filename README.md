@@ -1,2 +1,8 @@
 # virtual-paint
-"Utilizing digital technologies, Virtual Paint is an application that offers users a virtual canvas, along with brushes and a color palette. This platform empowers users to engage in immersive painting experiences by providing a range of tools and features for creating artwork
+Virtual Paint is an application that leverages digital technologies to provide users with a virtual canvas, brushes, and color palette. It enables users to create artwork using various tools and features for an immersive painting experience.
+
+Features
+
+Virtual canvas with a variety of brush options, colors, and textures.
+Intuitive and user-friendly interface for a seamless painting experience.
+Erase functionality for easy correction of mistakes.
